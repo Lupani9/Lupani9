@@ -1,36 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="::.:: SPAIN ::.::" tvg-logo="https://cdn.pixabay.com/photo/2016/07/17/18/59/spain-1524515_960_720.png" group-title="SP - SPAiN",::.:: SPAIN ::.::
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/8167
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF 2 SD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR GOLF 2 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180465
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF 2 HD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR GOLF 2 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180466
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF 2 FHD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR GOLF 2 FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180467
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR FORMULA 1 FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180468
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR GOLF FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180469
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR FORMULA 1 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180470
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR FORMULA 1 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180471
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF HD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR GOLF HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180472
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF SD" tvg-logo="" group-title="SP - SPAiN",ES: MOVISTAR GOLF SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180473
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 FHD" tvg-logo="" group-title="SP - SPAiN",ES: DAZN F1 FHD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180474
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVG" tvg-logo="" group-title="SP - SPAiN",ES: TVG
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180475
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVG 2" tvg-logo="" group-title="SP - SPAiN",ES: TVG 2
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180476
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Xabarin" tvg-logo="" group-title="SP - SPAiN",ES: TVG Xabarin
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180477
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Pequerrech@s" tvg-logo="" group-title="SP - SPAiN",ES: TVG Pequerrech@s
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180478
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Cativ@s" tvg-logo="" group-title="SP - SPAiN",ES: TVG Cativ@s
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180479
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVG Mociñ@s" tvg-logo="" group-title="SP - SPAiN",ES: TVG Mociñ@s
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180480
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVG Eventos 1" tvg-logo="" group-title="SP - SPAiN",ES: TVG Eventos 1
@@ -39,68 +14,28 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180481
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180482
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVG Eventos 3" tvg-logo="" group-title="SP - SPAiN",ES: TVG Eventos 3
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180483
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Mira Radio Galega" tvg-logo="" group-title="SP - SPAiN",ES: TVG Mira Radio Galega
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180484
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV Ferrol" tvg-logo="" group-title="SP - SPAiN",ES: TV Ferrol
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180485
-#EXTINF:-1 tvg-id="" tvg-name="ES: Anove TV" tvg-logo="" group-title="SP - SPAiN",ES: Anove TV
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180486
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV GRANADA FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV GRANADA FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180487
 #EXTINF:-1 tvg-id="" tvg-name="ES: 7TV CADIZ FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV CADIZ FHD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180488
 #EXTINF:-1 tvg-id="" tvg-name="ES: 7TV CORDOBA FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV CORDOBA FHD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180489
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV JAEN FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV JAEN FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180490
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV JEREZ FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV JEREZ FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180491
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV LINARES FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV LINARES FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180492
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV ROTA FHD" tvg-logo="" group-title="SP - SPAiN",ES: 7TV ROTA FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180493
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LIGA FHD (SAT)" tvg-logo="" group-title="SP - SPAiN",ES: DAZN LIGA FHD (SAT)
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180494
-#EXTINF:-1 tvg-id="" tvg-name="ES: Showtime FHD" tvg-logo="" group-title="SP - SPAiN",ES: Showtime FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180495
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Showtime HD" tvg-logo="" group-title="SP - SPAiN",ES: Showtime HD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180496
-#EXTINF:-1 tvg-id="" tvg-name="ES: Showtime SD" tvg-logo="" group-title="SP - SPAiN",ES: Showtime SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180497
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 3 HD+" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 3 HD+
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180498
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 3 FHD+" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 3 FHD+
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180499
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 3 FHD++" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 3 FHD++
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180500
-#EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 2 HD+" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 2 HD+
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180501
-#EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 2 FHD+" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 2 FHD+
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180502
-#EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 2 FHD++" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 2 FHD++
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180503
-#EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION HD+" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION HD+
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180504
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION FHD" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION FHD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180505
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION FHD+" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION FHD+
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180506
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION FHD++" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION FHD++
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180507
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LIGA FHD" tvg-logo="" group-title="SP - SPAiN",ES: DAZN LIGA FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180508
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LIGA FHD+" tvg-logo="" group-title="SP - SPAiN",ES: DAZN LIGA FHD+
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180509
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 8 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 8 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180510
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Plus+ 2 SD" tvg-logo="" group-title="SP - SPAiN",ES: Movistar Plus+ 2 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180511
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Plus+ 2 HD" tvg-logo="" group-title="SP - SPAiN",ES: Movistar Plus+ 2 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180512
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Plus+ 2 FHD" tvg-logo="" group-title="SP - SPAiN",ES: Movistar Plus+ 2 FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180513
-#EXTINF:-1 tvg-id="" tvg-name="ES: Classica HD" tvg-logo="" group-title="SP - SPAiN",ES: Classica HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180514
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo Live HD" tvg-logo="" group-title="SP - SPAiN",ES: Mezzo Live HD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180515
 #EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo HD" tvg-logo="" group-title="SP - SPAiN",ES: Mezzo HD
@@ -113,12 +48,6 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180518
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180519
 #EXTINF:-1 tvg-id="" tvg-name="ES: Ten SD" tvg-logo="" group-title="SP - SPAiN",ES: Ten SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180520
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mega HD" tvg-logo="" group-title="SP - SPAiN",ES: Mega HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180521
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mega FHD" tvg-logo="" group-title="SP - SPAiN",ES: Mega FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180522
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nova HD" tvg-logo="" group-title="SP - SPAiN",ES: Nova HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180523
 #EXTINF:-1 tvg-id="" tvg-name="ES: Nova FHD" tvg-logo="" group-title="SP - SPAiN",ES: Nova FHD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180524
 #EXTINF:-1 tvg-id="" tvg-name="ES: AMC Crime FHD" tvg-logo="" group-title="SP - SPAiN",ES: AMC Crime FHD
@@ -179,14 +108,6 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180551
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180552
 #EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME CINE Y SERIES HD" tvg-logo="" group-title="SP - SPAiN",ES: RUNTIME CINE Y SERIES HD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180553
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Musica SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Musica SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180554
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Musica HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Musica HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180555
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Musica FHD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Musica FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180556
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Cine SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Cine SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180557
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Cine HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Cine HD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180558
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Cine FHD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Cine FHD
@@ -229,8 +150,7 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180576
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180577
 #EXTINF:-1 tvg-id="" tvg-name="ES: ES: ALL FLAMENCO SD" tvg-logo="" group-title="SP - SPAiN",ES: ES: ALL FLAMENCO SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180578
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: TELENOVELAS SD" tvg-logo="" group-title="SP - SPAiN",ES: ES: TELENOVELAS SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180579
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 3 HD" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 3 HD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180580
 #EXTINF:-1 tvg-id="" tvg-name="ES: HYPERMOTION 3 SD" tvg-logo="" group-title="SP - SPAiN",ES: HYPERMOTION 3 SD
@@ -239,52 +159,6 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180581
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180582
 #EXTINF:-1 tvg-id="" tvg-name="ES: NATURE TIME" tvg-logo="" group-title="SP - SPAiN",ES: NATURE TIME
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180583
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE FHD" tvg-logo="" group-title="SP - SPAiN",ES: TOROLE FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180584
-#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE HD" tvg-logo="" group-title="SP - SPAiN",ES: DBIKE HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180585
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV FHD" tvg-logo="" group-title="SP - SPAiN",ES: MOTO ADV FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180586
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon HD" tvg-logo="" group-title="SP - SPAiN",ES: Nickelodeon HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180587
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon SD" tvg-logo="" group-title="SP - SPAiN",ES: Nickelodeon SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180588
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR FHD" tvg-logo="" group-title="SP - SPAiN",ES: NICK JR FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180589
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior HD" tvg-logo="" group-title="SP - SPAiN",ES: Disney Junior HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180590
-#EXTINF:-1 tvg-id="" tvg-name="ES: Ubeat SD" tvg-logo="" group-title="SP - SPAiN",ES: Ubeat SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180591
-#EXTINF:-1 tvg-id="" tvg-name="ES: Ubeat HD" tvg-logo="" group-title="SP - SPAiN",ES: Ubeat HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180592
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 6 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 6 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180593
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 6 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 6 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180594
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 5 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 5 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180595
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 5 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 5 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180596
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 4 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 4 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180597
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 4 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 4 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180598
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 3 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 3 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180599
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 3 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 3 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180600
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 2 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 2 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180601
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 2 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes 2 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180602
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F 1 SD" tvg-logo="" group-title="SP - SPAiN",ES: DAZN F 1 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180603
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F 1 HD" tvg-logo="" group-title="SP - SPAiN",ES: DAZN F 1 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180604
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F 1 HD+" tvg-logo="" group-title="SP - SPAiN",ES: DAZN F 1 HD+
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180605
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F 1 HD++" tvg-logo="" group-title="SP - SPAiN",ES: DAZN F 1 HD++
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180606
 #EXTINF:-1 tvg-id="" tvg-name="ES: Enfamilia SD" tvg-logo="" group-title="SP - SPAiN",ES: Enfamilia SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180607
 #EXTINF:-1 tvg-id="" tvg-name="ES: Enfamilia HD" tvg-logo="" group-title="SP - SPAiN",ES: Enfamilia HD
@@ -521,20 +395,7 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180722
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180723
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Deportes SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180724
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: EUROSPORT 1 HD" tvg-logo="" group-title="SP - SPAiN",ES: ES: EUROSPORT 1 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180725
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: EUROSPORT 1 SD" tvg-logo="" group-title="SP - SPAiN",ES: ES: EUROSPORT 1 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180726
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: EUROSPORT 2 FHD" tvg-logo="" group-title="SP - SPAiN",ES: ES: EUROSPORT 2 FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180727
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: EUROSPORT 2 SD" tvg-logo="" group-title="SP - SPAiN",ES: ES: EUROSPORT 2 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180728
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: TELEDEPORTE HD" tvg-logo="" group-title="SP - SPAiN",ES: ES: TELEDEPORTE HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180729
-#EXTINF:-1 tvg-id="" tvg-name="ES: ES: TELEDEPORTE SD" tvg-logo="" group-title="SP - SPAiN",ES: ES: TELEDEPORTE SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180730
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca HD" tvg-logo="" group-title="SP - SPAiN",ES: Caza y Pesca HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180731
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca SD" tvg-logo="" group-title="SP - SPAiN",ES: Caza y Pesca SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180732
 #EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic HD" tvg-logo="" group-title="SP - SPAiN",ES: National Geographic HD
@@ -629,24 +490,7 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180776
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180777
 #EXTINF:-1 tvg-id="" tvg-name="ES: DMAX SD" tvg-logo="" group-title="SP - SPAiN",ES: DMAX SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180778
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV 2 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV 2 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180779
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV 3 SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV 3 SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180780
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180781
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV SD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV SD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180782
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV 2 FHD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV 2 FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180783
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV 2 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV 2 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180784
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV 3 FHD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV 3 FHD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180785
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLigaTV 3 HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLigaTV 3 HD
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180786
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga 4K" tvg-logo="" group-title="SP - SPAiN",ES: M+ LaLiga 4K
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180787
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Campeones FHD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Campeones FHD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180788
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Campeones HD" tvg-logo="" group-title="SP - SPAiN",ES: M+ Campeones HD
@@ -927,141 +771,3 @@ http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180925
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180926
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="" group-title="SP - SPAiN",ES: IBERALIA 100% PESCA SD
 http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180927
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Junior" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Junior
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180928
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Kids" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Kids
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180929
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Animakids" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Animakids
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180930
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Originals" tvg-logo="" group-title="SP - SPAiN",ES: MTV Originals
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180931
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Catfish TV Show" tvg-logo="" group-title="SP - SPAiN",ES: MTV Catfish TV Show
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180932
-#EXTINF:-1 tvg-id="" tvg-name="ES: Comedia made in Spain" tvg-logo="" group-title="SP - SPAiN",ES: Comedia made in Spain
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180933
-#EXTINF:-1 tvg-id="" tvg-name="ES: The Pet Collective" tvg-logo="" group-title="SP - SPAiN",ES: The Pet Collective
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180934
-#EXTINF:-1 tvg-id="" tvg-name="ES: FailArmy" tvg-logo="" group-title="SP - SPAiN",ES: FailArmy
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180935
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cine Estelar" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cine Estelar
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180936
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cine Acción" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cine Acción
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180937
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cine Comedia" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cine Comedia
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180938
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Action Sports" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Action Sports
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180939
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Thrillers" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Thrillers
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180940
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Series" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Series
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180941
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cine Drama" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cine Drama
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180942
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cine Romántico" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cine Romántico
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180943
-#EXTINF:-1 tvg-id="" tvg-name="ES: Bob Esponja" tvg-logo="" group-title="SP - SPAiN",ES: Bob Esponja
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180944
-#EXTINF:-1 tvg-id="" tvg-name="ES: Asesinatos de Midsomer" tvg-logo="" group-title="SP - SPAiN",ES: Asesinatos de Midsomer
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180945
-#EXTINF:-1 tvg-id="" tvg-name="ES: Las reglas del juego" tvg-logo="" group-title="SP - SPAiN",ES: Las reglas del juego
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180946
-#EXTINF:-1 tvg-id="" tvg-name="ES: Los nuevos detectives" tvg-logo="" group-title="SP - SPAiN",ES: Los nuevos detectives
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180947
-#EXTINF:-1 tvg-id="" tvg-name="ES: Los archivos del FBI" tvg-logo="" group-title="SP - SPAiN",ES: Los archivos del FBI
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180948
-#EXTINF:-1 tvg-id="" tvg-name="ES: Andrómeda" tvg-logo="" group-title="SP - SPAiN",ES: Andrómeda
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180949
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mutante X" tvg-logo="" group-title="SP - SPAiN",ES: Mutante X
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180950
-#EXTINF:-1 tvg-id="" tvg-name="ES: Ana y los 7" tvg-logo="" group-title="SP - SPAiN",ES: Ana y los 7
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180951
-#EXTINF:-1 tvg-id="" tvg-name="ES: Curro Jiménez" tvg-logo="" group-title="SP - SPAiN",ES: Curro Jiménez
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180952
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cocina" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cocina
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180953
-#EXTINF:-1 tvg-id="" tvg-name="ES: Vaya semanita" tvg-logo="" group-title="SP - SPAiN",ES: Vaya semanita
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180954
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Sci-Fi" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Sci-Fi
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180955
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Series Comedia" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Series Comedia
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180956
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Embarazada a los 16" tvg-logo="" group-title="SP - SPAiN",ES: MTV Embarazada a los 16
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180957
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Teen Stars" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Teen Stars
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180958
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Animales" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Animales
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180959
-#EXTINF:-1 tvg-id="" tvg-name="ES: Wipeout" tvg-logo="" group-title="SP - SPAiN",ES: Wipeout
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180960
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Teen Mom" tvg-logo="" group-title="SP - SPAiN",ES: MTV Teen Mom
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180961
-#EXTINF:-1 tvg-id="" tvg-name="ES: Tuning" tvg-logo="" group-title="SP - SPAiN",ES: Tuning
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180962
-#EXTINF:-1 tvg-id="" tvg-name="ES: VH1 Classics" tvg-logo="" group-title="SP - SPAiN",ES: VH1 Classics
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180963
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Motor" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Motor
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180964
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Anime" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Anime
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180965
-#EXTINF:-1 tvg-id="" tvg-name="ES: Runtime" tvg-logo="" group-title="SP - SPAiN",ES: Runtime
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180966
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Toons Clásico" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Toons Clásico
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180967
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Music Made in Spain" tvg-logo="" group-title="SP - SPAiN",ES: MTV Music Made in Spain
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180968
-#EXTINF:-1 tvg-id="" tvg-name="ES: Just for Laughs" tvg-logo="" group-title="SP - SPAiN",ES: Just for Laughs
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180969
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Telenovelas" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Telenovelas
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180970
-#EXTINF:-1 tvg-id="" tvg-name="ES: El Comisario" tvg-logo="" group-title="SP - SPAiN",ES: El Comisario
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180971
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Viajes" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Viajes
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180972
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV K-Pop" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV K-Pop
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180973
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Indies" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Indies
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180974
-#EXTINF:-1 tvg-id="" tvg-name="ES: Top Gear" tvg-logo="" group-title="SP - SPAiN",ES: Top Gear
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180975
-#EXTINF:-1 tvg-id="" tvg-name="ES: Doctor Who" tvg-logo="" group-title="SP - SPAiN",ES: Doctor Who
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180976
-#EXTINF:-1 tvg-id="" tvg-name="ES: Euronews" tvg-logo="" group-title="SP - SPAiN",ES: Euronews
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180977
-#EXTINF:-1 tvg-id="" tvg-name="ES: BBC Drama" tvg-logo="" group-title="SP - SPAiN",ES: BBC Drama
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180978
-#EXTINF:-1 tvg-id="" tvg-name="ES: Love Nature" tvg-logo="" group-title="SP - SPAiN",ES: Love Nature
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180979
-#EXTINF:-1 tvg-id="" tvg-name="ES: El encantador de perros" tvg-logo="" group-title="SP - SPAiN",ES: El encantador de perros
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180980
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mi Extraña Obsesión" tvg-logo="" group-title="SP - SPAiN",ES: Mi Extraña Obsesión
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180981
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cazador de Homicidas" tvg-logo="" group-title="SP - SPAiN",ES: Cazador de Homicidas
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180982
-#EXTINF:-1 tvg-id="" tvg-name="ES: Rugrats" tvg-logo="" group-title="SP - SPAiN",ES: Rugrats
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180983
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Tattoo a dos" tvg-logo="" group-title="SP - SPAiN",ES: MTV Tattoo a dos
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180984
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Paranormal" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Paranormal
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180985
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Realities" tvg-logo="" group-title="SP - SPAiN",ES: MTV Realities
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180986
-#EXTINF:-1 tvg-id="" tvg-name="ES: Pluto TV Cine Clásico" tvg-logo="" group-title="SP - SPAiN",ES: Pluto TV Cine Clásico
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180987
-#EXTINF:-1 tvg-id="" tvg-name="ES: Avatar" tvg-logo="" group-title="SP - SPAiN",ES: Avatar
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180988
-#EXTINF:-1 tvg-id="" tvg-name="ES: Las Tortugas Ninja" tvg-logo="" group-title="SP - SPAiN",ES: Las Tortugas Ninja
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180989
-#EXTINF:-1 tvg-id="" tvg-name="ES: iCarly" tvg-logo="" group-title="SP - SPAiN",ES: iCarly
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180990
-#EXTINF:-1 tvg-id="" tvg-name="ES: En el punto de mira" tvg-logo="" group-title="SP - SPAiN",ES: En el punto de mira
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180991
-#EXTINF:-1 tvg-id="" tvg-name="ES: Constance Meyer: Jueza en prácticas" tvg-logo="" group-title="SP - SPAiN",ES: Constance Meyer: Jueza en prácticas
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180992
-#EXTINF:-1 tvg-id="" tvg-name="ES: MY TIME MOVIE NETWORK" tvg-logo="" group-title="SP - SPAiN",ES: MY TIME MOVIE NETWORK
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180993
-#EXTINF:-1 tvg-id="" tvg-name="ES: RAKUTEN CINE ESPAÑOL" tvg-logo="" group-title="SP - SPAiN",ES: RAKUTEN CINE ESPAÑOL
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180994
-#EXTINF:-1 tvg-id="" tvg-name="ES: TASTEMADE" tvg-logo="" group-title="SP - SPAiN",ES: TASTEMADE
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180995
-#EXTINF:-1 tvg-id="" tvg-name="ES: HOLA PLAY" tvg-logo="" group-title="SP - SPAiN",ES: HOLA PLAY
-http://trendtv.xyz:8080/iptvtr840/FYkFbjqfTC/180996
