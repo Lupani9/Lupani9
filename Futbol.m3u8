@@ -1,7 +1,85 @@
 EXTM3U
-#EXTINF:-1 tvg-id="Directv" tvg-name="Directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-title="deporte",A&E
+#EXTINF:-1 tvg-id="Diretv" tvg-name="Directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Directv
+http://181.66.249.246:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-id="directv" tvg-name="directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv
+http://181.78.82.130:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="directv 2 " tvg-name="directv 2" tvg-logo=" " group-litle="deporte",directv 2
+http://181.78.82.130:8000/play/a0r4/index.m3u8
+#EXTINF:-1 tvg-id="drectv+" tvg-name="directv+" tvg-logo=" " group-litle="deporte",directv+
+http://38.210.105.10:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="lima 1max" tvg-name="liga 1max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-title="peru",liga 1max
 http://38.137.192.250:8000/play/a0c9
-#EXTINF:-1 tvg-id="SKy" tvg-name="SKY" tvg-logo="https://i.ibb.co/ydQFzyt/descarga-3.png" group-title="deporte",sky
+#EXTINF:-1 tvg-id="L1 max" tvg-name="L1 max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1 max
+http://181.66.249.246:8000/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1
+http://38.210.105.10:8000/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1
+http://181.66.249.246:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-id="L1 max " tvg-name="L1 max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1 max
+http://38.250.175.246:8199/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="SKy" tvg-name="sky" tvg-logo="https://i.ibb.co/Mxw6dKQc/sky.jpg" group-title="deporte",sky
 http://45.5.118.152:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="sky" tvg-name="sky" tvg-logo="https://i.ibb.co/JwgP4M6r/descarga.png" group-litle="deporte",sky
-http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="skay" tvg-name="skay" tvg-logo="https://i.ibb.co/Mxw6dKQc/sky.jpg " group-litle="deporte",sky
+http://45.166.93.156:9999/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.ibb.co/9vpdx2r/descarga-1.png" group-litle="deporte",Espn
+http://177.53.152.117:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.ibb.co/9vpdx2r/descarga-1.png" group-litle="deporte",Espn
+http://181.66.249.246:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.ibb.co/9vpdx2r/descarga-1.png" group-litle="deporte",Espn
+http://181.78.5.14:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="Espn 2" tvg-name="Espn 2" tvg-logo="https://i.ibb.co/GQd9XwvP/descarga.png" group-litle="deporte",Espn 2
+http://177.53.152.117:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="Espn 2" tvg-name="Espn 2" tvg-logo="https://i.ibb.co/GQd9XwvP/descarga.png" group-litle="deporte",Espn 2
+http://181.66.249.246:8000/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-id="Espn 2" tvg-name="Espn 2" tvg-logo="https://i.ibb.co/GQd9XwvP/descarga.png" group-litle="deporte",Espn 2
+http://181.78.5.14:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="Espn 3" tvg-name="Espn 3" tvg-logo="https://i.ibb.co/NgNMKXSw/spen3.jpg" group-litle="deporte",Espn 3
+http://177.53.152.117:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="Espn 3" tvg-name="Espn 3" tvg-logo="https://i.ibb.co/NgNMKXSw/spen3.jpg" group-litle="deporte",Espn 3
+http://181.66.249.246:8000/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-id="Espn 3" tvg-name="Espn 3" tvg-logo="https://i.ibb.co/NgNMKXSw/spen3.jpg" group-litle="deporte",Espn 3
+http://181.78.5.14:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="Espn 4" tvg-name="Espn 4" tvg-logo="https://i.ibb.co/7JJrNkcP/espn-4.png" group-litle="deporte",Espn 4
+http://177.53.152.117:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="Espn 4" tvg-name="Espn 4" tvg-logo="https://i.ibb.co/7JJrNkcP/espn-4.png" group-litle="deporte",Espn 4
+http://181.66.249.246:8000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-id="Espn 4" tvg-name="Espn 4" tvg-logo="https://i.ibb.co/7JJrNkcP/espn-4.png" group-litle="deporte",Espn 4
+http://181.78.5.14:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-name="fox" tvg-logo="https://i.ibb.co/T83pZLd/descarga.jpg" group-litle="deporte",fox
+http://45.5.116.228:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="fox sport" tvg-name="fox sport" tvg-logo=" " group-litle="deporte",fox sport
+http://158.172.155.130:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="claro sport" tvg-name="claro sport" tvg-logo=" " group-litle="deporte",claro sport
+http://45.167.1.136:8000/play/a00d
+#EXTINF:-1 tvg-id="claro sport" tvg-name="claro sport" tvg-logo=" " group-litle="deporte",claro sport
+http://45.70.168.162:4000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="tnt sport" tvg-name="tnt sport" tvg-logo=" " group-litle="deporte",tnt sport
+http://38.250.175.246:8199/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="tnt sport" tvg-name="tnt sport" tvg-logo=" " group-litle="deporte",tnt sport
+http://181.66.249.246:8000/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="TyC" tvg-name="TyC" tvg-logo="https://i.ibb.co/ZfLY5kz/images-1.jpg" group-litle="deporte",TyC
+http://181.79.87.130:8000/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-id="wins sport" tvg-name="wins sport" tvg-logo="https://i.ibb.co/ydQFzyt/descarga-3.png" group-litle="colombia",wins 
+http://181.78.82.130:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-id="wins" tvg-name="wins" tvg-logo="https://i.ibb.co/ydQFzyt/descarga-3.png" group-litle="colombia",wins
+http://181.79.87.130:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="wins +" tvg-name="wins +" tvg-logo="https://i.ibb.co/ydQFzyt/descarga-3.png" group-litle="colombia",wins +
+http://181.78.82.130:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="wins +" tvg-name="wins +" tvg-logo="https://i.ibb.co/ydQFzyt/descarga-3.png" group-litle="colombia",wins +
+http://181.79.87.130:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-id="ECDF" tvg-name="ECDF" tvg-logo="https://i.ibb.co/kZ2jHtt/ecdf.jpg" group-litle="ecuador",ECDF
+http://181.79.87.130:8000/play/a0ca/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-litle="deporte",
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-litle="deporte",
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-litle="deporte",
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-litle="deporte",
+
+
+
