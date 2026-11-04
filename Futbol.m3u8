@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Diretv" tvg-name="Directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Directv
-http://181.66.249.246:8000/play/a0km/index.m3u8
-#EXTINF:-1 tvg-id="directv" tvg-name="directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv
-http://181.78.82.130:8000/play/a0r5/index.m3u8
-#EXTINF:-1 tvg-id="directv 2 " tvg-name="directv 2" tvg-logo=" " group-litle="deporte",directv 2
-http://181.78.82.130:8000/play/a0r4/index.m3u8
-#EXTINF:-1 tvg-id="drectv+" tvg-name="directv+" tvg-logo=" " group-litle="deporte",directv+
-http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="lima 1max" tvg-name="liga 1max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-title="peru",liga 1max
 http://38.137.192.250:8000/play/a0c9
 #EXTINF:-1 tvg-id="L1 max" tvg-name="L1 max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1 max
@@ -17,6 +9,14 @@ http://38.210.105.10:8000/play/a0d5/index.m3u8
 http://181.66.249.246:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="L1 max " tvg-name="L1 max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1 max
 http://38.250.175.246:8199/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="Diretv" tvg-name="Directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Directv
+http://181.66.249.246:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-id="directv" tvg-name="directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv
+http://181.78.82.130:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="directv 2 " tvg-name="directv 2" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv 2
+http://181.78.82.130:8000/play/a0r4/index.m3u8
+#EXTINF:-1 tvg-id="drectv+" tvg-name="directv+" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv+
+http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="SKy" tvg-name="sky" tvg-logo="https://i.ibb.co/Mxw6dKQc/sky.jpg" group-title="deporte",sky
 http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="skay" tvg-name="skay" tvg-logo="https://i.ibb.co/Mxw6dKQc/sky.jpg " group-litle="deporte",sky
