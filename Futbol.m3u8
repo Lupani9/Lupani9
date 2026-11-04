@@ -9,13 +9,13 @@ http://38.210.105.10:8000/play/a0d5/index.m3u8
 http://181.66.249.246:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="L1 max " tvg-name="L1 max" tvg-logo="https://i.ibb.co/MD4NkT5z/liga-max.png" group-litle="peru",L1 max
 http://38.250.175.246:8199/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="Diretv" tvg-name="Directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Directv
+#EXTINF:-1 tvg-id="Dtv" tvg-name="Dtv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Dtv
 http://181.66.249.246:8000/play/a0km/index.m3u8
-#EXTINF:-1 tvg-id="directv" tvg-name="directv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv
+#EXTINF:-1 tvg-id="Dtv" tvg-name="Dtv" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Dtv
 http://181.78.82.130:8000/play/a0r5/index.m3u8
-#EXTINF:-1 tvg-id="directv 2 " tvg-name="directv 2" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv 2
+#EXTINF:-1 tvg-id="Dtv 2" tvg-name="Dtv 2" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Dtv 2
 http://181.78.82.130:8000/play/a0r4/index.m3u8
-#EXTINF:-1 tvg-id="drectv+" tvg-name="directv+" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",directv+
+#EXTINF:-1 tvg-id="Dtv +" tvg-name="Dtv +" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-litle="deporte",Dtv+
 http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="SKy" tvg-name="sky" tvg-logo="https://i.ibb.co/Mxw6dKQc/sky.jpg" group-title="deporte",sky
 http://45.5.118.152:8000/play/a08f/index.m3u8
